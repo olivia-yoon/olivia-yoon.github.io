@@ -15,7 +15,7 @@ permalink: /about/
 - Hansol Education Corp. ((주)한솔교육), Team Manager (팀장), 2007 - 2014.
 - News9 Academy, Assistant director (부원장), 2014 - 2019.
 
-# PROJECT EXOERIENCE
+# PROJECT EXPERIENCE
 - Show 끼
 - Dynamic Acting Class: English Musical Class, several performances such as Jean Valjean, High School Musical, and Grease.  
 - Dynamic Speaking Class (https://drive.google.com/open?id=1NBXkBEo5HUHRema6RDueddOqz_fcMqOI)
